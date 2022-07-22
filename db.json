@@ -1,0 +1,569 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userId": 0,
+      "email": "user@example.com",
+      "password": "",
+      "nickname": "재영",
+      "gender": "string",
+      "language": [
+        {
+          "value": "afrikaans",
+          "label": "Afrikaans",
+          "selected": true
+        },
+        {
+          "value": "chinese",
+          "label": "Chinese",
+          "selected": false
+        },
+        {
+          "value": "english",
+          "label": "English",
+          "selected": false
+        },
+        {
+          "value": "french",
+          "label": "French",
+          "selected": false
+        },
+        {
+          "value": "german",
+          "label": "German",
+          "selected": false
+        },
+        {
+          "value": "japanese",
+          "label": "Japanese",
+          "selected": false
+        },
+        {
+          "value": "korean",
+          "label": "Korean",
+          "selected": false
+        },
+        {
+          "value": "russian",
+          "label": "Russian",
+          "selected": false
+        },
+        {
+          "value": "spanish",
+          "label": "Spanish",
+          "selected": false
+        },
+        {
+          "value": "uzbek",
+          "label": "Uzbek",
+          "selected": false
+        }
+      ],
+      "birthday": "2022-07-14",
+      "location": "string",
+      "latitude": 0,
+      "longitude": 0,
+      "status": "string",
+      "profileText": "string",
+      "profileImage": "",
+      "createdAt": "2022-07-14T10:55:27.089Z",
+      "updatedAt": "2022-07-14T10:55:27.089Z",
+      "favor": [
+        {
+          "value": "movie",
+          "label": "Movie",
+          "selected": false
+        },
+        {
+          "value": "language",
+          "label": "Language",
+          "selected": false
+        },
+        {
+          "value": "reading",
+          "label": "Reading",
+          "selected": true
+        },
+        {
+          "value": "game",
+          "label": "Game",
+          "selected": false
+        },
+        {
+          "value": "coding",
+          "label": "Coding",
+          "selected": false
+        },
+        {
+          "value": "fantasy",
+          "label": "Fantasy",
+          "selected": false
+        },
+        {
+          "value": "sports",
+          "label": "Sports",
+          "selected": false
+        },
+        {
+          "value": "entertainment",
+          "label": "Entertainment",
+          "selected": false
+        },
+        {
+          "value": "music",
+          "label": "Music",
+          "selected": false
+        },
+        {
+          "value": "fashion",
+          "label": "Fashion",
+          "selected": false
+        },
+        {
+          "value": "art",
+          "label": "Art",
+          "selected": false
+        },
+        {
+          "value": "travel",
+          "label": "Travel",
+          "selected": false
+        }
+      ],
+      "newPassword": "",
+      "currentPassword": ""
+    }
+  ],
+  "friend": [
+    {
+      "id": 2,
+      "userId": 0,
+      "email": "user@example.com",
+      "password": "11111",
+      "nickname": "보람",
+      "gender": "string",
+      "language": "string",
+      "birthday": "2022-10-18",
+      "location": "string",
+      "latitude": 0,
+      "longitude": 0,
+      "status": "string",
+      "profileText": "안녕하시렵니까",
+      "profileImage": "/img/뚱이.png",
+      "createdAt": "2022-07-14T10:55:27.089Z",
+      "updatedAt": "2022-07-14T10:55:27.089Z",
+      "favor": {
+        "userId": 0,
+        "movie": true,
+        "language": true,
+        "reading": true,
+        "game": true,
+        "coding": true,
+        "fantasy": true,
+        "sports": true,
+        "entertainment": true,
+        "music": true,
+        "fashion": true,
+        "art": true,
+        "travel": true
+      }
+    },
+    {
+      "id": 3,
+      "userId": 0,
+      "email": "user@example.com",
+      "password": "11111",
+      "nickname": "재현",
+      "gender": "string",
+      "language": "string",
+      "birthday": "2022-10-18",
+      "location": "string",
+      "latitude": 0,
+      "longitude": 0,
+      "status": "string",
+      "profileText": "안녕하시렵니까",
+      "profileImage": "/img/뚱이.png",
+      "createdAt": "2022-07-14T10:55:27.089Z",
+      "updatedAt": "2022-07-14T10:55:27.089Z",
+      "favor": {
+        "userId": 0,
+        "movie": true,
+        "language": true,
+        "reading": true,
+        "game": true,
+        "coding": true,
+        "fantasy": true,
+        "sports": true,
+        "entertainment": true,
+        "music": true,
+        "fashion": true,
+        "art": true,
+        "travel": true
+      }
+    },
+    {
+      "id": 4,
+      "userId": 0,
+      "email": "user@example.com",
+      "password": "11111",
+      "nickname": "주혁",
+      "gender": "string",
+      "language": "string",
+      "birthday": "2022-10-18",
+      "location": "string",
+      "latitude": 0,
+      "longitude": 0,
+      "status": "string",
+      "profileText": "안녕하시렵니까",
+      "profileImage": "/img/뚱이.png",
+      "createdAt": "2022-07-14T10:55:27.089Z",
+      "updatedAt": "2022-07-14T10:55:27.089Z",
+      "favor": {
+        "userId": 0,
+        "movie": true,
+        "language": true,
+        "reading": true,
+        "game": true,
+        "coding": true,
+        "fantasy": true,
+        "sports": true,
+        "entertainment": true,
+        "music": true,
+        "fashion": true,
+        "art": true,
+        "travel": true
+      }
+    }
+  ],
+  "recommenduser": [
+    {
+      "userid": 1,
+      "nickname": "펭수",
+      "image": "https://i.pinimg.com/236x/ac/be/55/acbe55bf3dd23717e74269d82a9b2c52.jpg",
+      "email": "user@example.com",
+      "password": "string",
+      "gender": "string",
+      "birthday": "2022-07-14",
+      "location": "string",
+      "latitude": 0,
+      "longitude": 0,
+      "status": "string",
+      "profileText": "string",
+      "profileEmoji": "string",
+      "createdAt": "2022-07-14T10:55:27.089Z",
+      "updatedAt": "2022-07-14T10:55:27.089Z",
+      "favor": [
+        {
+          "value": "movie",
+          "label": "Movie",
+          "selected": true
+        },
+        {
+          "value": "language",
+          "label": "Language",
+          "selected": true
+        },
+        {
+          "value": "reading",
+          "label": "Reading",
+          "selected": true
+        },
+        {
+          "value": "game",
+          "label": "Game",
+          "selected": true
+        },
+        {
+          "value": "coding",
+          "label": "Coding",
+          "selected": true
+        },
+        {
+          "value": "fantasy",
+          "label": "Fantasy",
+          "selected": true
+        },
+        {
+          "value": "sports",
+          "label": "Sports",
+          "selected": true
+        },
+        {
+          "value": "entertainment",
+          "label": "Entertainment",
+          "selected": true
+        },
+        {
+          "value": "music",
+          "label": "Music",
+          "selected": true
+        },
+        {
+          "value": "fashion",
+          "label": "Fashion",
+          "selected": true
+        },
+        {
+          "value": "art",
+          "label": "Art",
+          "selected": true
+        },
+        {
+          "value": "travel",
+          "label": "Travel",
+          "selected": false
+        }
+      ],
+      "language": [
+        {
+          "value": "afrikaans",
+          "label": "Afrikaans",
+          "selected": null
+        },
+        {
+          "value": "chinese",
+          "label": "Chinese",
+          "selected": null
+        },
+        {
+          "value": "english",
+          "label": "English",
+          "selected": null
+        },
+        {
+          "value": "french",
+          "label": "French",
+          "selected": null
+        },
+        {
+          "value": "german",
+          "label": "German",
+          "selected": null
+        },
+        {
+          "value": "japanese",
+          "label": "Japanese",
+          "selected": null
+        },
+        {
+          "value": "korean",
+          "label": "Korean",
+          "selected": true
+        },
+        {
+          "value": "russian",
+          "label": "Russian",
+          "selected": null
+        },
+        {
+          "value": "spanish",
+          "label": "Spanish",
+          "selected": null
+        },
+        {
+          "value": "uzbek",
+          "label": "Uzbek",
+          "selected": null
+        }
+      ]
+    },
+    {
+      "userid": 3,
+      "nickname": "징징이",
+      "image": "https://img.etoday.co.kr/pto_db/2021/05/600/20210513151949_1619895_1170_874.jpg",
+      "email": "jingjing2@gmail.com",
+      "password": "elice1234",
+      "gender": "women",
+      "birthday": "2022-07-14",
+      "location": "United States",
+      "latitude": 0,
+      "longitude": 0,
+      "status": "string",
+      "profileText": "나 돌아갈래~",
+      "profileEmoji": "string",
+      "createdAt": "2022-07-14T10:55:27.089Z",
+      "updatedAt": "2022-07-14T10:55:27.089Z",
+      "favor": [
+        {
+          "value": "movie",
+          "label": "Movie",
+          "selected": true
+        },
+        {
+          "value": "language",
+          "label": "Language",
+          "selected": true
+        },
+        {
+          "value": "reading",
+          "label": "Reading",
+          "selected": true
+        },
+        {
+          "value": "game",
+          "label": "Game",
+          "selected": true
+        },
+        {
+          "value": "coding",
+          "label": "Coding",
+          "selected": true
+        },
+        {
+          "value": "fantasy",
+          "label": "Fantasy",
+          "selected": true
+        },
+        {
+          "value": "sports",
+          "label": "Sports",
+          "selected": true
+        },
+        {
+          "value": "entertainment",
+          "label": "Entertainment",
+          "selected": true
+        },
+        {
+          "value": "music",
+          "label": "Music",
+          "selected": true
+        },
+        {
+          "value": "fashion",
+          "label": "Fashion",
+          "selected": true
+        },
+        {
+          "value": "art",
+          "label": "Art",
+          "selected": true
+        },
+        {
+          "value": "travel",
+          "label": "Travel",
+          "selected": false
+        }
+      ],
+      "language": [
+        {
+          "value": "afrikaans",
+          "label": "Afrikaans",
+          "selected": null
+        },
+        {
+          "value": "chinese",
+          "label": "Chinese",
+          "selected": null
+        },
+        {
+          "value": "english",
+          "label": "English",
+          "selected": null
+        },
+        {
+          "value": "french",
+          "label": "French",
+          "selected": null
+        },
+        {
+          "value": "german",
+          "label": "German",
+          "selected": null
+        },
+        {
+          "value": "japanese",
+          "label": "Japanese",
+          "selected": null
+        },
+        {
+          "value": "korean",
+          "label": "Korean",
+          "selected": true
+        },
+        {
+          "value": "russian",
+          "label": "Russian",
+          "selected": null
+        },
+        {
+          "value": "spanish",
+          "label": "Spanish",
+          "selected": null
+        },
+        {
+          "value": "uzbek",
+          "label": "Uzbek",
+          "selected": null
+        }
+      ]
+    }
+  ],
+  "letter": [
+    {
+      "letterId": 3,
+      "sendId": 1,
+      "receiveId": 2,
+      "status": "incoming",
+      "sendDate": "15/07/2022 02:34:56",
+      "deliveryTime": 9,
+      "receiveDate": "15/07/2022 11:34:56",
+      "sendLocation": "United States",
+      "receiveLocation": "Korea",
+      "send_img": "https://w7.pngwing.com/pngs/407/764/png-transparent-yellow-smiley-emoji-emoji-computer-icons-emoticon-sunglasses-emoji-smiley-sticker-glasses-thumbnail.png",
+      "content": "Hi, How is it going? Let me talk about myself. I am 뚱이 from United States and 18 yrs old and I graduated High school this year."
+    },
+    {
+      "letterId": 4,
+      "sendId": 3,
+      "receiveId": 2,
+      "status": "incoming",
+      "sendDate": "15/07/2022 02:34:56",
+      "deliveryTime": 9,
+      "receiveDate": "30/05/2022 11:34:56",
+      "sendLocation": "Spain",
+      "receiveLocation": "Korea",
+      "send_img": "https://w7.pngwing.com/pngs/407/764/png-transparent-yellow-smiley-emoji-emoji-computer-icons-emoticon-sunglasses-emoji-smiley-sticker-glasses-thumbnail.png",
+      "content": "Hola, ¿cómo va? Déjame hablar de mí mismo. Soy de los Estados Unidos y 18 años de edad y me gradué en la secundaria este año."
+    },
+    {
+      "letterId": 5,
+      "sendId": 4,
+      "receiveId": 2,
+      "status": "incoming",
+      "sendDate": "30/05/2022 02:34:56",
+      "deliveryTime": 9,
+      "receiveDate": "30/05/2022 11:34:56",
+      "sendLocation": "United States",
+      "receiveLocation": "Korea",
+      "send_img": "https://w7.pngwing.com/pngs/407/764/png-transparent-yellow-smiley-emoji-emoji-computer-icons-emoticon-sunglasses-emoji-smiley-sticker-glasses-thumbnail.png",
+      "content": "Hi, How is it going? Let me talk about myself. I am 뚱이 from United States and 18 yrs old and I graduated High school this year."
+    },
+    {
+      "letterId": 6,
+      "sendId": 5,
+      "receiveId": 2,
+      "status": "incoming",
+      "sendDate": "30/05/2022 02:34:56",
+      "deliveryTime": 9,
+      "receiveDate": "30/05/2022 11:34:56",
+      "sendLocation": "United States",
+      "receiveLocation": "Korea",
+      "send_img": "https://w7.pngwing.com/pngs/407/764/png-transparent-yellow-smiley-emoji-emoji-computer-icons-emoticon-sunglasses-emoji-smiley-sticker-glasses-thumbnail.png",
+      "content": "Hi, How is it going? Let me talk about myself. I am 뚱이 from United States and 18 yrs old and I graduated High school this year."
+    },
+    {
+      "letterId": 2,
+      "sendId": 6,
+      "receiveId": 2,
+      "status": "arrived",
+      "sendDate": "30/05/2022 00:34:56",
+      "deliveryTime": 9,
+      "receiveDate": "30/05/2022 09:34:56",
+      "sendLocation": "United States",
+      "receiveLocation": "Korea",
+      "send_img": "https://w7.pngwing.com/pngs/232/131/png-transparent-iphone-emoji-apple-ios-11-emojis-lol-emoji-electronics-smiley-apple-color-emoji-thumbnail.png",
+      "content": "Hi, How is it going? Let me talk about myself. I am 뚱이 from United States and 18 yrs old and I graduated High school this year."
+    }
+  ]
+}

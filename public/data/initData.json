@@ -1,0 +1,116 @@
+{
+  "favor": [
+    {
+      "value": "movie",
+      "label": "Movie",
+      "selected": false
+    },
+    {
+      "value": "language",
+      "label": "Language",
+      "selected": false
+    },
+    {
+      "value": "reading",
+      "label": "Reading",
+      "selected": true
+    },
+    {
+      "value": "game",
+      "label": "Game",
+      "selected": false
+    },
+    {
+      "value": "coding",
+      "label": "Coding",
+      "selected": false
+    },
+    {
+      "value": "fantasy",
+      "label": "Fantasy",
+      "selected": false
+    },
+    {
+      "value": "sports",
+      "label": "Sports",
+      "selected": false
+    },
+    {
+      "value": "entertainment",
+      "label": "Entertainment",
+      "selected": false
+    },
+    {
+      "value": "music",
+      "label": "Music",
+      "selected": false
+    },
+    {
+      "value": "fashion",
+      "label": "Fashion",
+      "selected": false
+    },
+    {
+      "value": "art",
+      "label": "Art",
+      "selected": false
+    },
+    {
+      "value": "travel",
+      "label": "Travel",
+      "selected": false
+    }
+  ],
+  "language": [
+    {
+      "value": "afrikaans",
+      "label": "Afrikaans",
+      "selected": true
+    },
+    {
+      "value": "chinese",
+      "label": "Chinese",
+      "selected": false
+    },
+    {
+      "value": "english",
+      "label": "English",
+      "selected": false
+    },
+    {
+      "value": "french",
+      "label": "French",
+      "selected": false
+    },
+    {
+      "value": "german",
+      "label": "German",
+      "selected": false
+    },
+    {
+      "value": "japanese",
+      "label": "Japanese",
+      "selected": false
+    },
+    {
+      "value": "korean",
+      "label": "Korean",
+      "selected": false
+    },
+    {
+      "value": "russian",
+      "label": "Russian",
+      "selected": false
+    },
+    {
+      "value": "spanish",
+      "label": "Spanish",
+      "selected": false
+    },
+    {
+      "value": "uzbek",
+      "label": "Uzbek",
+      "selected": false
+    }
+  ]
+}
